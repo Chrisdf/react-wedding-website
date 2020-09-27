@@ -40,7 +40,7 @@ export default class MobileMenu extends Component {
                         <li><AnchorLink href='#story'>Story</AnchorLink></li>
                         <li><AnchorLink href='#location'>Location</AnchorLink></li>
                         <li><AnchorLink href='#gallery'>Engagement</AnchorLink></li>
-                        <li><AnchorLink href='#rsvp'>Rsvp</AnchorLink></li>
+                        <li><AnchorLink href='#rsvp'>RSVP</AnchorLink></li>
                     </ul>
 
                 </div>

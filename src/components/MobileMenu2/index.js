@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Collapse, CardBody, Card } from 'reactstrap';
-import {Link} from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import './style.css';
 
 export default class MobileMenu2 extends Component {
@@ -44,19 +44,19 @@ export default class MobileMenu2 extends Component {
                                 </CardBody>
                             </Card>
                         </Collapse>
-                            <li><Link to='/home'>Couple</Link></li>
-                            <li><Link to='/home'>Story</Link></li>
-                            <li><Link to='/home'>People</Link></li>
-                            <li><Link to='/home'>Events</Link></li>
-                            <li><Link to='/home'>Gallery</Link></li>
-                            <li><Link to='/home'>Rsvp</Link></li>
-                            <li><Link to='/blog'>Blog</Link></li>
-                            <li><Link to='/Blog-details'>Blog Details</Link></li>
+                        <li><Link to='/home'>Couple</Link></li>
+                        <li><Link to='/home'>Story</Link></li>
+                        <li><Link to='/home'>People</Link></li>
+                        <li><Link to='/home'>Events</Link></li>
+                        <li><Link to='/home'>Gallery</Link></li>
+                        <li><Link to='/home'>RSVP</Link></li>
+                        <li><Link to='/blog'>Blog</Link></li>
+                        <li><Link to='/Blog-details'>Blog Details</Link></li>
                     </ul>
-                    
+
                 </div>
 
-                <div className="showmenu" onClick={this.menuHandler}><i className="fa fa-bars" aria-hidden="true"></i></div>         
+                <div className="showmenu" onClick={this.menuHandler}><i className="fa fa-bars" aria-hidden="true"></i></div>
             </div>
         )
     }

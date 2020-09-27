@@ -8,6 +8,7 @@ class Rsvp extends Component {
         name: '',
         email: '',
         rsvp: '',
+        drinking: '',
         events: '',
         notes: '',
         error: {}
@@ -31,7 +32,7 @@ class Rsvp extends Component {
             email,
             rsvp,
             events,
-            notes, error } = this.state;
+            drinking, error } = this.state;
 
         if (name === '') {
             error.name = "Please enter your name";
@@ -40,13 +41,13 @@ class Rsvp extends Component {
             error.email = "Please enter your email";
         }
         if (rsvp === '') {
-            error.rsvp = "Select your number of rsvp";
+            error.rsvp = "Please select the number of people in your party";
+        }
+        if (drinking === '') {
+            error.drinking = "Please select the number of people who are 21 or older in the party"
         }
         if (events === '') {
-            error.events = "Select your event list";
-        }
-        if (notes === '') {
-            error.notes = "Please enter your note";
+            error.events = "Please select which events you will be attending";
         }
 
 
@@ -55,13 +56,14 @@ class Rsvp extends Component {
                 error
             })
         }
-        if (error.name === '' && error.email === '' && error.email === '' && error.rsvp === '' && error.events === '' && error.notes === '') {
+        if (error.name === '' && error.email === '' && error.email === '' && error.rsvp === '' && error.events === '' && error.notes === '' && error.drinking === '') {
             this.setState({
                 name: '',
                 email: '',
                 rsvp: '',
                 events: '',
                 notes: '',
+                drinking: '',
                 error: {}
             })
         }
@@ -96,29 +98,51 @@ class Rsvp extends Component {
                                         </div>
                                         <div className="col col-sm-12">
                                             <select className="form-control" onChange={this.changeHandler} value={rsvp} name="rsvp">
-                                                <option disabled value="">Number Of rsvp*</option>
+                                                <option disabled value="">Number of People (including yourself)*</option>
                                                 <option value="1">1</option>
                                                 <option value="2">2</option>
                                                 <option value="3">3</option>
                                                 <option value="4">4</option>
+                                                <option value="5">5</option>
+                                                <option value="6">6</option>
+                                                <option value="7">7</option>
+                                                <option value="8">8</option>
+                                                <option value="9">9</option>
+                                                <option value="10">10</option>
                                             </select>
                                             <p>{error.rsvp ? error.rsvp : ''}</p>
                                         </div>
                                         <div className="col col-sm-12">
+                                            <select className="form-control" onChange={this.changeHandler} value={rsvp} name="rsvp">
+                                                <option disabled value="">Number of 21+ (including yourself)*</option>
+                                                <option value="1">1</option>
+                                                <option value="2">2</option>
+                                                <option value="3">3</option>
+                                                <option value="4">4</option>
+                                                <option value="5">5</option>
+                                                <option value="6">6</option>
+                                                <option value="7">7</option>
+                                                <option value="8">8</option>
+                                                <option value="9">9</option>
+                                                <option value="10">10</option>
+                                            </select>
+                                            <p>{error.rsvp ? error.drinking : ''}</p>
+                                        </div>
+                                        <div className="col col-sm-12">
                                             <select className="form-control" onChange={this.changeHandler} value={events} name="events">
-                                                <option disabled value="">I Am Attending*</option>
-                                                <option value="1">Al events</option>
-                                                <option value="2">Wedding ceremony</option>
-                                                <option value="3">Reception party</option>
+                                                <option disabled value="">Attending*</option>
+                                                <option value="1">Attending All Events</option>
+                                                <option value="2">Attending Only Ceremony</option>
+                                                <option value="3">Attending Only Reception</option>
                                             </select>
                                             <p>{error.events ? error.events : ''}</p>
                                         </div>
                                         <div className="col-12 col-sm-12">
-                                            <textarea className="contact-textarea" value={notes} onChange={this.changeHandler} placeholder="Message" name="notes"></textarea>
+                                            <textarea className="contact-textarea" value={notes} onChange={this.changeHandler} placeholder="Extra Notes" name="notes"></textarea>
                                             <p>{error.notes ? error.notes : ''}</p>
                                         </div>
                                         <div className="col-12 text-center">
-                                            <button id="submit" type="submit" className="submit">Send Invitation</button>
+                                            <button id="submit" type="submit" className="submit">Send RSVP</button>
                                         </div>
                                     </div>
                                 </form>

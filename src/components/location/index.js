@@ -32,8 +32,7 @@ const Location = () => {
                                                 <div className="event-text">
                                                     <h3>Wedding Ceremony</h3>
                                                     <span>2:00PM - 3:30PM</span>
-                                                    <span>33400 Wright Rd, Magnolia, TX 77355</span>
-                                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal </p>
+                                                    <p>The wedding ceremony will take place at the Chapel inside of the venue. Please arrive thirty minutes to an hour before, to give yourself time to meet with others and get familiar with the area.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -44,7 +43,7 @@ const Location = () => {
                                                 <div className="event-text event-text-2">
                                                     <h3>Cocktail Hour</h3>
                                                     <span>4:00PM - 5:00PM</span>
-                                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout </p>
+                                                    <p>The cocktail hour will take place directly after the ceremony, and allow the bride and groom time to take pictures. Drinks will be provided!</p>
                                                 </div>
                                             </div>
                                             <div className="col-lg-5 col-md-12 col-12">
@@ -65,7 +64,7 @@ const Location = () => {
                                                 <div className="event-text">
                                                     <h3>Reception</h3>
                                                     <span>5:00PM - 12:00AM</span>
-                                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal </p>
+                                                    <p>The reception will take place inside the reception hall on premesis. Dinner will be provided, and drinks will continue being served until 11:00 PM.</p>
                                                 </div>
                                             </div>
                                         </div>
