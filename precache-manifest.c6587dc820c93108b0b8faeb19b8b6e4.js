@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c989c10d2f8fe03514c981123538a2fa",
+    "revision": "f47a6e2e3a602559d238e4c8877556fe",
     "url": "/react-wedding-website/index.html"
   },
   {
-    "revision": "3884144750962fd5e533",
+    "revision": "3967c0f3886f2d9ec6bb",
     "url": "/react-wedding-website/static/css/2.3d7b2185.chunk.css"
   },
   {
-    "revision": "9dfbcf9fd0f6ccbbb1e5",
+    "revision": "729b6514496f4a6adf5a",
     "url": "/react-wedding-website/static/css/main.12f4a39d.chunk.css"
   },
   {
-    "revision": "3884144750962fd5e533",
-    "url": "/react-wedding-website/static/js/2.0e2a1130.chunk.js"
+    "revision": "3967c0f3886f2d9ec6bb",
+    "url": "/react-wedding-website/static/js/2.3fdb27fb.chunk.js"
   },
   {
-    "revision": "9dfbcf9fd0f6ccbbb1e5",
-    "url": "/react-wedding-website/static/js/main.a10b413e.chunk.js"
+    "revision": "729b6514496f4a6adf5a",
+    "url": "/react-wedding-website/static/js/main.5f64c355.chunk.js"
   },
   {
     "revision": "c1fb09db1df2d823b550",
