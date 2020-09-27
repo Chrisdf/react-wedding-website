@@ -87,7 +87,6 @@ class Rsvp extends Component {
                         <div className="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
                             <div className="rsvp-wrap">
                                 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe5YOdgrP7oXiHvxqZX-M2RSsyHzRbp6WaAPdM1l0og4zKLIA/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
                             </div>
                         </div>
                     </div>
