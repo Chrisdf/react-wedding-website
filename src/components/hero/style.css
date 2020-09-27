@@ -26,7 +26,8 @@
 
 .item1{
     background: url(../../images/slider/banner.jpg);
-    background-repeat: round;
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 950px;
     display: flex!important;
     justify-content: center;

@@ -2,7 +2,7 @@ import React from 'react';
 import './style.css'
 
 const Sectiontitle = (props) => {
-    return(
+    return (
         <div className="section-title">
             <div className="container">
                 <div className="row">

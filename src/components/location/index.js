@@ -8,19 +8,13 @@ import Map from "../maps";
 
 import './style.css'
 
+const directionsURL = "http://google.com/maps/dir/balmorhea+weddings/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8647294248d30f8f:0x5ad167740a4f7fb7?sa=X"
+
 const Location = () => {
     return (
         <div id="location" className="event-section section-padding">
             <Sectiontitle section={'When & Where'} />
-
-            <div className="container">
-                <div className="row">
-                    <div className="col-md-12">
-                        <Map />
-                    </div>
-                </div>
-            </div>
-
+            <div className="dir-btn"><a href={directionsURL}>Directions</a></div>
             <div className="container">
                 <div className="row">
                     <div className="col-12">

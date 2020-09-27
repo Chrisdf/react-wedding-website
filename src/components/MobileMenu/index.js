@@ -38,9 +38,8 @@ export default class MobileMenu extends Component {
                     <ul className="responsivemenu">
                         <li><AnchorLink href='#couple'>Couple</AnchorLink></li>
                         <li><AnchorLink href='#story'>Story</AnchorLink></li>
-                        <li><AnchorLink href='#people'>People</AnchorLink></li>
                         <li><AnchorLink href='#location'>Location</AnchorLink></li>
-                        <li><AnchorLink href='#gallery'>Gallery</AnchorLink></li>
+                        <li><AnchorLink href='#gallery'>Engagement</AnchorLink></li>
                         <li><AnchorLink href='#rsvp'>Rsvp</AnchorLink></li>
                     </ul>
 
