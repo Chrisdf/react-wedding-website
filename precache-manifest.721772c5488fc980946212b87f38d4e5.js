@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99ea3e27d5edafd5022f9d839bdbf85d",
+    "revision": "119c3fac4f956377d78e2b5dd9fcfabb",
     "url": "/react-wedding-website/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-wedding-website/static/css/2.3d7b2185.chunk.css"
   },
   {
-    "revision": "2c0b6f1f57c8b29fab8f",
-    "url": "/react-wedding-website/static/css/main.d4631531.chunk.css"
+    "revision": "bf33fdf51d0c20f92345",
+    "url": "/react-wedding-website/static/css/main.d43a3ef7.chunk.css"
   },
   {
     "revision": "34c17219b8517149fd70",
     "url": "/react-wedding-website/static/js/2.0bc5155e.chunk.js"
   },
   {
-    "revision": "2c0b6f1f57c8b29fab8f",
+    "revision": "bf33fdf51d0c20f92345",
     "url": "/react-wedding-website/static/js/main.0bba04b7.chunk.js"
   },
   {
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-wedding-website/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/react-wedding-website/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "acf3dcb7ff752b5296ca23ba2c7c2606",
+    "url": "/react-wedding-website/static/media/fontawesome-webfont.acf3dcb7.svg"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
