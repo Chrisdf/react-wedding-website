@@ -1,27 +1,63 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f47a6e2e3a602559d238e4c8877556fe",
+    "revision": "c346452e2a787cd7e381bdb920000a0a",
     "url": "/react-wedding-website/index.html"
   },
   {
-    "revision": "3967c0f3886f2d9ec6bb",
+    "revision": "a30ca48abab9b660b0ba",
     "url": "/react-wedding-website/static/css/2.3d7b2185.chunk.css"
   },
   {
-    "revision": "729b6514496f4a6adf5a",
-    "url": "/react-wedding-website/static/css/main.12f4a39d.chunk.css"
+    "revision": "f3e218cd63efd9728e32",
+    "url": "/react-wedding-website/static/css/main.d4631531.chunk.css"
   },
   {
-    "revision": "3967c0f3886f2d9ec6bb",
-    "url": "/react-wedding-website/static/js/2.3fdb27fb.chunk.js"
+    "revision": "a30ca48abab9b660b0ba",
+    "url": "/react-wedding-website/static/js/2.f18c9d04.chunk.js"
   },
   {
-    "revision": "729b6514496f4a6adf5a",
-    "url": "/react-wedding-website/static/js/main.5f64c355.chunk.js"
+    "revision": "f3e218cd63efd9728e32",
+    "url": "/react-wedding-website/static/js/main.68af0ff3.chunk.js"
   },
   {
     "revision": "c1fb09db1df2d823b550",
     "url": "/react-wedding-website/static/js/runtime~main.f488c6ef.js"
+  },
+  {
+    "revision": "b0130703d993fa507dac0270130c5a2a",
+    "url": "/react-wedding-website/static/media/IMG_2356.b0130703.jpg"
+  },
+  {
+    "revision": "a9ae1deafb11c633b608d47667ab6fcd",
+    "url": "/react-wedding-website/static/media/IMG_2365.a9ae1dea.jpg"
+  },
+  {
+    "revision": "1e2f6852692bb68c81e918777365e1ca",
+    "url": "/react-wedding-website/static/media/IMG_6529.1e2f6852.jpg"
+  },
+  {
+    "revision": "37d3ccaabb97fc62819154b49972b67f",
+    "url": "/react-wedding-website/static/media/IMG_6601.37d3ccaa.jpg"
+  },
+  {
+    "revision": "82e43fc1ac9fcf2575536a820bc9367b",
+    "url": "/react-wedding-website/static/media/IMG_6659.82e43fc1.jpg"
+  },
+  {
+    "revision": "268bb20afd2794c7ec71d72f447adf64",
+    "url": "/react-wedding-website/static/media/IMG_7612.268bb20a.jpg"
+  },
+  {
+    "revision": "543282963236ec578687a83487d3b302",
+    "url": "/react-wedding-website/static/media/IMG_7636.54328296.jpg"
+  },
+  {
+    "revision": "3d9908b0c000d61852b77254f7b7af8d",
+    "url": "/react-wedding-website/static/media/IMG_7640.3d9908b0.jpg"
+  },
+  {
+    "revision": "edc334cf2f72f877cb8a3b7baaa64180",
+    "url": "/react-wedding-website/static/media/atire.edc334cf.png"
   },
   {
     "revision": "542ae65c6ffd3ba9af83120070bf569a",
@@ -110,5 +146,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/react-wedding-website/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "91272941a9fe0e4b632ad8d1d7ba7d8f",
+    "url": "/react-wedding-website/static/media/uber-lyft.91272941.jpg"
   }
 ]);

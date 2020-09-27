@@ -1,18 +1,27 @@
 {
   "files": {
-    "main.css": "/react-wedding-website/static/css/main.12f4a39d.chunk.css",
-    "main.js": "/react-wedding-website/static/js/main.5f64c355.chunk.js",
-    "main.js.map": "/react-wedding-website/static/js/main.5f64c355.chunk.js.map",
+    "main.css": "/react-wedding-website/static/css/main.d4631531.chunk.css",
+    "main.js": "/react-wedding-website/static/js/main.68af0ff3.chunk.js",
+    "main.js.map": "/react-wedding-website/static/js/main.68af0ff3.chunk.js.map",
     "runtime~main.js": "/react-wedding-website/static/js/runtime~main.f488c6ef.js",
     "runtime~main.js.map": "/react-wedding-website/static/js/runtime~main.f488c6ef.js.map",
     "static/css/2.3d7b2185.chunk.css": "/react-wedding-website/static/css/2.3d7b2185.chunk.css",
-    "static/js/2.3fdb27fb.chunk.js": "/react-wedding-website/static/js/2.3fdb27fb.chunk.js",
-    "static/js/2.3fdb27fb.chunk.js.map": "/react-wedding-website/static/js/2.3fdb27fb.chunk.js.map",
+    "static/js/2.f18c9d04.chunk.js": "/react-wedding-website/static/js/2.f18c9d04.chunk.js",
+    "static/js/2.f18c9d04.chunk.js.map": "/react-wedding-website/static/js/2.f18c9d04.chunk.js.map",
     "index.html": "/react-wedding-website/index.html",
-    "precache-manifest.c6587dc820c93108b0b8faeb19b8b6e4.js": "/react-wedding-website/precache-manifest.c6587dc820c93108b0b8faeb19b8b6e4.js",
+    "precache-manifest.3862feed874fa76f739d25957878e32f.js": "/react-wedding-website/precache-manifest.3862feed874fa76f739d25957878e32f.js",
     "service-worker.js": "/react-wedding-website/service-worker.js",
     "static/css/2.3d7b2185.chunk.css.map": "/react-wedding-website/static/css/2.3d7b2185.chunk.css.map",
-    "static/css/main.12f4a39d.chunk.css.map": "/react-wedding-website/static/css/main.12f4a39d.chunk.css.map",
+    "static/css/main.d4631531.chunk.css.map": "/react-wedding-website/static/css/main.d4631531.chunk.css.map",
+    "static/media/IMG_2356.jpg": "/react-wedding-website/static/media/IMG_2356.b0130703.jpg",
+    "static/media/IMG_2365.jpg": "/react-wedding-website/static/media/IMG_2365.a9ae1dea.jpg",
+    "static/media/IMG_6529.jpg": "/react-wedding-website/static/media/IMG_6529.1e2f6852.jpg",
+    "static/media/IMG_6601.jpg": "/react-wedding-website/static/media/IMG_6601.37d3ccaa.jpg",
+    "static/media/IMG_6659.jpg": "/react-wedding-website/static/media/IMG_6659.82e43fc1.jpg",
+    "static/media/IMG_7612.jpg": "/react-wedding-website/static/media/IMG_7612.268bb20a.jpg",
+    "static/media/IMG_7636.jpg": "/react-wedding-website/static/media/IMG_7636.54328296.jpg",
+    "static/media/IMG_7640.jpg": "/react-wedding-website/static/media/IMG_7640.3d9908b0.jpg",
+    "static/media/atire.png": "/react-wedding-website/static/media/atire.edc334cf.png",
     "static/media/balmorhea.mp4": "/react-wedding-website/static/media/balmorhea.542ae65c.mp4",
     "static/media/style.css": "/react-wedding-website/static/media/banner.a1edd550.jpg",
     "static/media/chapel.jpg": "/react-wedding-website/static/media/chapel.9f7345a9.jpg",
@@ -26,6 +35,7 @@
     "static/media/img-4.jpg": "/react-wedding-website/static/media/img-4.ea9d3768.jpg",
     "static/media/malendy-cropped.jpg": "/react-wedding-website/static/media/malendy-cropped.fe7ac27a.jpg",
     "static/media/reception.png": "/react-wedding-website/static/media/reception.95d1d9f7.png",
-    "static/media/slick-theme.css": "/react-wedding-website/static/media/slick.f97e3bbf.svg"
+    "static/media/slick-theme.css": "/react-wedding-website/static/media/slick.f97e3bbf.svg",
+    "static/media/uber-lyft.jpg": "/react-wedding-website/static/media/uber-lyft.91272941.jpg"
   }
 }
