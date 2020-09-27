@@ -1,24 +1,21 @@
 import React from 'react';
-import {BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import Homepage from '../HomePage/index'
 import Footer from '../../components/footer'
 import Scrollbar from '../../components/scrollbar'
 import './App.css';
 
 
-const App = () => { 
+const App = () => {
 
   return (
     <div className="App">
-       <Router>
-          <Switch>
-            <Route exact path='/' component={Homepage} />
-            <Route path='/home' component={Homepage} />
-          </Switch>
-          <Footer/>
-          <Scrollbar/>
+      <Router>
+        <Homepage />
+        <Footer />
+        <Scrollbar />
       </Router>
-      
+
     </div>
   );
 }
