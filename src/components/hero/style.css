@@ -25,18 +25,10 @@
 }
 
 .item1{
-    background: url(../../images/slider/1.jpg);
+    background: url(../../images/slider/banner.jpg);
+    background-repeat: round;
     height: 950px;
     display: flex!important;
-    justify-content: center;
-    flex-direction: column;
-    width: 100%;
-}
-
-.item2{
-    background: url(../../images/slider/2.jpg);
-    height: 950px;
-     display: flex!important;
     justify-content: center;
     flex-direction: column;
     width: 100%;
@@ -65,8 +57,8 @@
     position: absolute;
     left: -1.5%;
     top: -1.5%;
-    -webkit-animation: pulse 1s infinite;
-    animation: pulse 1s infinite;
+    -webkit-animation: pulse 3s infinite;
+    animation: pulse 3s infinite;
     z-index: -1;
 }
 .slide-content h2{
@@ -79,6 +71,8 @@
 }
 .slide-text p {
     color: #fff;
+    font-size: 22pt;
+    font-weight: bold;
     margin-bottom: 0;
 }
 

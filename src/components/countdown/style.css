@@ -3,19 +3,21 @@
 }
 .countdownwrap {
     text-align: center;
-    padding: 40px;
+    padding: 0px;
     margin: auto;
     position: relative;
     overflow: hidden;
+    border: groove;
+    border-width: 5px;
+    border-radius: 40px;
 }
 .react-countdown li {
     display: inline-block;
-    margin: 0 10px;
+    margin: 0px;
     text-align: center;
     position: relative;
     width: 195px;
     padding: 65px 0 23px;
-    background: url(../../images/vector.png);
     height: 200px;
     background-size: cover;
 }

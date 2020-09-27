@@ -10,7 +10,6 @@
     top: -80px;
     left: 50%;
     content: "";
-    background: url(../../images/section-title.png);
     width: 100px;
     height: 80px;
     transform: translateX(-50%);

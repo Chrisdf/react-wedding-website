@@ -3,7 +3,7 @@ welcome-area
 =================================*/
 
 .welcome-area {
-    background: url(../../images/slider/1.jpg);
+    background: url(../../images/slider/balmorhea.jpg);
     position: relative;
     height: 500px;
     background-attachment: fixed;
@@ -50,7 +50,24 @@ welcome-area
 }
 
 .btn a:hover {
-    background: #b2c9d3;
+    background: gold;
+    color: #fff;
+}
+
+.btn2 a {
+    background: gold;
+    color: black;
+    padding: 10px 38px;
+    font-size: 30px;
+    transition: all .3s;
+    font-weight: 600;
+    border-radius: 15px;
+    border: solid;
+}
+
+.btn2 a:hover {
+    background: gold;
+    border-color: gold;
     color: #fff;
 }
 

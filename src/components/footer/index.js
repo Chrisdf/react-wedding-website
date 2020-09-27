@@ -2,15 +2,11 @@ import React from 'react';
 import './style.css'
 
 const Footer = () => {
-    return(
+    return (
         <div className="site-footer">
             <div className="container">
-                <div className="row">
-                    <div className="text">
-                        <p>Thank you</p>
-                    </div>
-                </div>
-            </div> 
+                <p>See you then!</p>
+            </div>
         </div>
     )
 }
