@@ -4,7 +4,6 @@ import Sectiontitle from '../section-title'
 import strory1 from '../../images/events/chapel.jpg'
 import strory2 from '../../images/events/cocktail.png'
 import strory3 from '../../images/events/reception.png'
-import Map from "../maps";
 
 import './style.css'
 
