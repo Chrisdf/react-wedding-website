@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-wedding-website/static/css/main.12f4a39d.chunk.css",
+    "main.js": "/react-wedding-website/static/js/main.a10b413e.chunk.js",
+    "main.js.map": "/react-wedding-website/static/js/main.a10b413e.chunk.js.map",
+    "runtime~main.js": "/react-wedding-website/static/js/runtime~main.f488c6ef.js",
+    "runtime~main.js.map": "/react-wedding-website/static/js/runtime~main.f488c6ef.js.map",
+    "static/css/2.3d7b2185.chunk.css": "/react-wedding-website/static/css/2.3d7b2185.chunk.css",
+    "static/js/2.0e2a1130.chunk.js": "/react-wedding-website/static/js/2.0e2a1130.chunk.js",
+    "static/js/2.0e2a1130.chunk.js.map": "/react-wedding-website/static/js/2.0e2a1130.chunk.js.map",
+    "index.html": "/react-wedding-website/index.html",
+    "precache-manifest.160cef44edbb79f1ab31d3242b260870.js": "/react-wedding-website/precache-manifest.160cef44edbb79f1ab31d3242b260870.js",
+    "service-worker.js": "/react-wedding-website/service-worker.js",
+    "static/css/2.3d7b2185.chunk.css.map": "/react-wedding-website/static/css/2.3d7b2185.chunk.css.map",
+    "static/css/main.12f4a39d.chunk.css.map": "/react-wedding-website/static/css/main.12f4a39d.chunk.css.map",
+    "static/media/balmorhea.mp4": "/react-wedding-website/static/media/balmorhea.542ae65c.mp4",
+    "static/media/style.css": "/react-wedding-website/static/media/banner.a1edd550.jpg",
+    "static/media/chapel.jpg": "/react-wedding-website/static/media/chapel.9f7345a9.jpg",
+    "static/media/chris-cropped.jpg": "/react-wedding-website/static/media/chris-cropped.bb320344.jpg",
+    "static/media/close.svg": "/react-wedding-website/static/media/close.123b7d37.svg",
+    "static/media/cocktail.png": "/react-wedding-website/static/media/cocktail.496541af.png",
+    "static/media/font-awesome.min.css": "/react-wedding-website/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/img-1.jpg": "/react-wedding-website/static/media/img-1.5322b1e1.jpg",
+    "static/media/img-2.jpg": "/react-wedding-website/static/media/img-2.38cf848f.jpg",
+    "static/media/img-3.jpg": "/react-wedding-website/static/media/img-3.1fb8c67f.jpg",
+    "static/media/img-4.jpg": "/react-wedding-website/static/media/img-4.ea9d3768.jpg",
+    "static/media/malendy-cropped.jpg": "/react-wedding-website/static/media/malendy-cropped.fe7ac27a.jpg",
+    "static/media/reception.png": "/react-wedding-website/static/media/reception.95d1d9f7.png",
+    "static/media/slick-theme.css": "/react-wedding-website/static/media/slick.f97e3bbf.svg"
+  }
+}
