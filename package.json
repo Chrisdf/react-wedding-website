@@ -1,6 +1,6 @@
 {
   "homepage": "https://chrisdf.github.io/react-wedding-website/",
-  "name": "Wedding Website",
+  "name": "react-wedding-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
