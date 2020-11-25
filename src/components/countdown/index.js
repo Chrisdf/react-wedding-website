@@ -9,12 +9,16 @@ class Saveday extends Component {
             <div className="saveday">
                 <div className="container">
                     <div className="row">
-                        <div className="col-12">
+                        <div class="col-sm-3"></div>
+                        <div className="col-6">
                             <div className="countdownwrap">
                                 <CountDown
                                     deadline="November 12, 2021"
                                 />
+                                <div className="subtitle">
+                                    <h1>Until we say I do</h1></div>
                             </div>
+                            <div class="col-sm-3"></div>
                         </div>
                     </div>
                 </div>

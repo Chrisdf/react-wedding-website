@@ -1,13 +1,22 @@
 .saveday{
-    padding-top: 80px;
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+}
+.subtitle {
+    padding-top: 30px;
+    font-size: 22pt;
+    font-weight: bold;
+    margin-bottom: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .countdownwrap {
+    background-color: rgba(178,201,211,.8);;
     text-align: center;
-    padding: 0px;
     margin: auto;
     position: relative;
     overflow: hidden;
-    border: groove;
+    padding: 10px;
     border-width: 5px;
     border-radius: 40px;
 }
@@ -16,31 +25,35 @@
     margin: 0px;
     text-align: center;
     position: relative;
-    width: 195px;
-    padding: 65px 0 23px;
-    height: 200px;
+    width: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
     background-size: cover;
 }
 
 .react-countdown li:after {
  display: none;
 }
+
 .react-countdown .text {
     text-transform: uppercase;
     margin-bottom: 0;
     font-size: 14px!important;
-    color: #333;
+    color: #fff;
 }
 .react-countdown .digit {
     font-size: 40px!important;
     font-weight: 600;
     line-height: 1.4;
     margin-bottom: 0;
-    color: #333;
+    color: #fff;
     font-family: 'Great Vibes', cursive;
 }
 .couple-area{
-    padding-top: 150px!important;
+    padding-top: 0px!important;
+}
+.subtitle {
+    color: #fff;
 }
 
 @media (max-width:991px){

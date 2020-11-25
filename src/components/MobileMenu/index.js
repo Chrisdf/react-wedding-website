@@ -36,11 +36,11 @@ export default class MobileMenu extends Component {
                         <h2><Link to='/home'>Chris & Malendy</Link></h2>
                     </div>
                     <ul className="responsivemenu">
-                        <li><AnchorLink href='#couple'>Couple</AnchorLink></li>
-                        <li><AnchorLink href='#story'>Story</AnchorLink></li>
-                        <li><AnchorLink href='#location'>Location</AnchorLink></li>
-                        <li><AnchorLink href='#gallery'>Engagement</AnchorLink></li>
-                        <li><AnchorLink href='#rsvp'>RSVP</AnchorLink></li>
+                        <li><Link to='/'>Home</Link></li>
+                        <li><Link to='/story'>Our Story</Link></li>
+                        <li><Link to='/engagement'>Engagement</Link></li>
+                        <li><Link to='/details'>Wedding Details</Link></li>
+                        <li><Link to='/rsvp'>RSVP</Link></li>
                     </ul>
 
                 </div>
